@@ -57,5 +57,6 @@ xkb_symbols "real-prog-dvorak" {
     key <AB10> { [          z,  Z               ]       };
 
     key <BKSL> { [  backslash,  numbersign             ]       };
+    key <CAPS> {        [ Escape                ]       };
 };
 
